@@ -1,7 +1,7 @@
 module.exports = {
   title: 'My Dev Blog', // Required
   author: 'Nipuna Perera', // Required
-  description: 'Full-stack Web Developer',
+  description: 'Full-stack Software Engineer',
   primaryColor: '#9933ff', // Reqfuired
   showHeaderImage: true,
   showShareButtons: true,
