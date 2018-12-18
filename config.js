@@ -7,10 +7,10 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://nipuna-perera.github.com',
+    website: 'https://nipuna-perera.github.io',
     github: 'https://github.com/nipuna-perera',
     twitter: 'https://twitter.com/mangocrysis',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    linkedin: 'https://ca.linkedin.com/in/nipunaperera',
   },
   pathPrefix: '/devblog',
   siteUrl: 'https://nipuna-perera.github.io'
